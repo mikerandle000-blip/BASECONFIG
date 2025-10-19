@@ -1,0 +1,14 @@
+{
+  "accountAssociation": {
+    "address": "0x34d699471Af34b0BcBDbcf315558EfAF060fa39a",
+    "chain": "base"
+  },
+  "miniapp": {
+    "name": "BaseLaunch",
+    "description": "A decentralized launchpad built with Base Builder",
+    "url": "https://yourappurl.com"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x34d699471Af34b0BcBDbcf315558EfAF060fa39a"
+  }
+}
